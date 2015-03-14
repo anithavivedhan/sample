@@ -21,7 +21,7 @@
     <groupId>org.jvnet.hudson.plugins</groupId>
 	<artifactId>sample</artifactId>
 	<packaging>jar</packaging>
-	<version>1.17-SNAPSHOT</version>
+	<version>1.19-SNAPSHOT</version>
 	<name>Jenkins Sample Plugin</name>
 	<description>A Build status publisher that notifies message</description>
     <url>http://wiki.jenkins-ci.org/display/JENKINS/sample+Plugin</url>
@@ -46,9 +46,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:ssh://github.com/anithavivedhan/sample2.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/anithavivedhan/sample2</developerConnection>
-        <url>https://github.com/anithavivedhan/sample2</url>
+        <connection>scm:git:ssh://github.com/anithavivedhan/sample.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/anithavivedhan/sample</developerConnection>
+        <url>https://github.com/anithavivedhan/sample</url>
     </scm>
 
 	<dependencies>
